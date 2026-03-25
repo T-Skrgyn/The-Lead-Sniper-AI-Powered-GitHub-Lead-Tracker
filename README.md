@@ -38,7 +38,7 @@ Lead Sniper is an automated workflow built using **n8n** that identifies high-va
 
 ## 📷 Screenshot
 
-![Workflow]([screenshots/workflow.png](https://github.com/T-Skrgyn/The-Lead-Sniper-AI-Powered-GitHub-Lead-Tracker/blob/main/screenshot%20of%20slack.png))
+![Workflow](screenshot of slack.png)
 
 ---
 
